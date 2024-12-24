@@ -21,6 +21,10 @@ This project provides a simple Python command-line interface (CLI) tool to conve
 ### **Installation**
 
 1. Clone the repository or download the script file.
-2. Install the required Python libraries:
+2. Install pip
+      ```bash
+   python get-pip.py
+4. Install the required Python libraries:
+
    ```bash
    pip install boto3 tkinter
